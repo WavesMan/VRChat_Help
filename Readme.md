@@ -2,6 +2,12 @@
 ## 为此提供了多个Q/A问题解决各类问题
 ## · 当你遇到任何新的问题你可以前往提[Issues_GitHub](https://github.com/WavesMan/VRChat_Help/issues)或者镜像[Issue_Gitee](https://gitee.com/waves-man/VRChat_Help/issues)提交问题
 
+### 目录
+|   [问题](https://github.com/WavesMan/VRChat_Help#问题) |   [回答](https://github.com/WavesMan/VRChat_Help#回答)     |
+|------------|-------------------------------------------|
+|   [Q1-Q10](https://github.com/WavesMan/VRChat_Help#Q1-Q10)    |   [A1-A10](https://github.com/WavesMan/VRChat_Help#A1-A10)  |
+
+
 ### 问题
 
 ## Q1-Q10
